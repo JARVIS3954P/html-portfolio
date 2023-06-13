@@ -1,0 +1,16 @@
+<h1>It's My Birthday</h1>
+<hr />
+<img src="https://cdn.igp.com/f_auto,q_auto,t_pnopt12prodlp/products/p-colourful-birthday-wishes-cake-half-kg--111503-m.jpg" alt="Image of a cake" height="200" width="200"/>
+<h2>DATE</h2>
+<p>12th October</p>
+<h2>TIME</h2>
+<p>6:00 p.m.</p>
+<h2>What to bring:</h2>
+<ul>
+    <li>Balloon</li>
+    <li>Cake</li>
+    <li>An apetite</li>
+</ul>
+<a href="https://goo.gl/maps/ckQjJwNbqfmK9s1e6">Location</a>
+<hr />
+<h3>JARVIS</h3>
